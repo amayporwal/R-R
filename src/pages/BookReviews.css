@@ -1,0 +1,20 @@
+/* Add to your CSS file */
+@keyframes scroll-left {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
+  .animate-scroll {
+    animation: scroll-left 20s linear infinite;
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  .overflow-hidden {
+    overflow: hidden;
+  }
+  
