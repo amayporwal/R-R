@@ -120,7 +120,7 @@ export default function HomePage() {
             
             <Link to="/phone">
               <Box 
-                imageURL="../../public/Categories/phone.png"
+                imageURL="../src/assets/Categories/phone.png"
                 classNameDiv="relative group overflow-hidden snap-center min-w-[160px] hover:scale-105 transition-all duration-300 ease-out"
                 classNameHeading="text-center font-bold mt-2"
                 classNameImage="hover:scale-110 transition-all duration-300"
@@ -129,7 +129,7 @@ export default function HomePage() {
 
             <Link to="/book">
               <Box 
-                imageURL="../../public/Categories/Books.png"
+                imageURL="../src/assets/Categories/Books.png"
                 classNameDiv="relative group overflow-hidden snap-center min-w-[160px] hover:scale-105 transition-all duration-300 ease-out"
                 classNameHeading="text-center font-bold mt-2"
                 classNameImage="hover:scale-110 transition-all duration-300"
@@ -138,7 +138,7 @@ export default function HomePage() {
 
             <Link to="/home">
               <Box 
-                imageURL="../../public/Categories/watch.png"
+                imageURL="../src/assets/Categories/watch.png"
                 classNameDiv="relative group overflow-hidden snap-center min-w-[160px] hover:scale-105 transition-all duration-300 ease-out"
                 classNameHeading="text-center font-bold mt-2"
                 classNameImage="hover:scale-110 transition-all duration-300"
@@ -147,7 +147,7 @@ export default function HomePage() {
 
             <Link to="/home">
               <Box 
-                imageURL="../../public/Categories/Headphone.png"
+                imageURL="../src/assets/Categories/Headphone.png"
                 classNameDiv="relative group overflow-hidden snap-center min-w-[160px] hover:scale-105 transition-all duration-300 ease-out"
                 classNameHeading="text-center font-bold mt-2"
                 classNameImage="hover:scale-110 transition-all duration-300"
@@ -156,7 +156,7 @@ export default function HomePage() {
 
             <Link to="/home">
               <Box 
-                imageURL="../../public/Categories/Movies.png"
+                imageURL="../src/assets/Categories/Movies.png"
                 classNameDiv="relative group overflow-hidden snap-center min-w-[160px] hover:scale-105 transition-all duration-300 ease-out"
                 classNameHeading="text-center font-bold mt-2"
                 classNameImage="hover:scale-110 transition-all duration-300"
@@ -165,7 +165,7 @@ export default function HomePage() {
 
             <Link to="/home">
               <Box 
-                imageURL="../../public/Categories/speakers.png"
+                imageURL="../src/assets/Categories/speakers.png"
                 classNameDiv="relative group overflow-hidden snap-center min-w-[160px] hover:scale-105 transition-all duration-300 ease-out"
                 classNameHeading="text-center font-bold mt-2"
                 classNameImage="hover:scale-110 transition-all duration-300"
@@ -227,7 +227,7 @@ export default function HomePage() {
           {/* Image */}
           <div className='w-full md:w-1/2'>
             <img 
-              src="../../public/default/pic-13.png" 
+              src="../src/assets/default/pic-13.png" 
               alt="Review illustration" 
               className='w-full h-full object-cover transition-transform duration-700 hover:scale-105' 
             />

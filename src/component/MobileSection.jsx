@@ -10,7 +10,7 @@ function MobileSection() {
         <div className='flex flex-row justify-between mt-5 mx-20'>
           <Box 
             classNameDiv="relative group overflow-hidden w-1/5  transition-all duration-300 hover:shadow-xl p-4 rounded-md"
-            imageURL="../../public/Mobile/Mobile1.png"
+            imageURL="../src/assets/Mobile/Mobile1.png"
             classNameImage="mx-auto w-full transition-transform duration-500 group-hover:scale-90 rounded-md"           
             heading="When Haru Was Here Book Review A Heart-Wrenching Tale Of Love, Loss, And Hope"
             classNameHeading="text-left font-semibold text-md"
@@ -22,7 +22,7 @@ function MobileSection() {
 
           <Box 
             classNameDiv="relative group overflow-hidden w-1/5  transition-all duration-300 hover:shadow-xl p-4 rounded-md"
-            imageURL="../../public/Mobile/Mobile2.png"
+            imageURL="../src/assets/Mobile/Mobile2.png"
             classNameImage="mx-auto w-full transition-transform duration-500 group-hover:scale-90 rounded-md"           
             heading="When Haru Was Here Book Review A Heart-Wrenching Tale Of Love, Loss, And Hope"
             classNameHeading="text-left font-semibold text-md"
@@ -34,7 +34,7 @@ function MobileSection() {
 
           <Box 
             classNameDiv="relative group overflow-hidden w-1/5 transition-all duration-300 hover:shadow-xl p-4 rounded-md"
-            imageURL="../../public/Mobile/Mobile3.png"
+            imageURL="../src/assets/Mobile/Mobile3.png"
             classNameImage="mx-auto w-full transition-transform duration-500 group-hover:scale-90 rounded-md"           
             heading="When Haru Was Here Book Review A Heart-Wrenching Tale Of Love, Loss, And Hope"
             classNameHeading="text-left font-semibold text-md"
@@ -46,7 +46,7 @@ function MobileSection() {
 
           <Box
             classNameDiv="relative group overflow-hidden w-1/5  transition-all duration-300 hover:shadow-xl p-4 rounded-md"
-            imageURL="../../public/Mobile/Mobile4.png"
+            imageURL="../src/assets/Mobile/Mobile4.png"
             classNameImage="mx-auto w-full transition-transform duration-500 group-hover:scale-90 rounded-md"           
             heading="When Haru Was Here Book Review A Heart-Wrenching Tale Of Love, Loss, And Hope"
             classNameHeading="text-left font-semibold text-md"

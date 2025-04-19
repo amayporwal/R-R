@@ -66,7 +66,7 @@ function AllCategory() {
           <div className='mx-15'>
             <div className='flex justify-between mt-20'>
               <Box 
-                imageURL="../../public/Categories/phone.png"
+                imageURL="../src/assets/Categories/phone.png"
                 classNameDiv="relative group overflow-hidden w-1/5 transition-all duration-300 hover:shadow-xl hover:-translate-y-2"
                 classNameHeading="text-center font-bold"
                 classNameImage="w-full transition-transform duration-500 group-hover:scale-110"
@@ -76,7 +76,7 @@ function AllCategory() {
               />
 
               <Box 
-                imageURL="../../public/Categories/Headphone.png"
+                imageURL="../src/assets/Categories/Headphone.png"
                 classNameDiv="relative group overflow-hidden w-1/5 transition-all duration-300 hover:shadow-xl hover:-translate-y-2"
                 classNameHeading="text-center font-bold"
                 classNameImage="w-full transition-transform duration-500 group-hover:scale-110"
@@ -86,7 +86,7 @@ function AllCategory() {
               />
 
               <Box 
-                imageURL="../../public/Categories/Books.png"
+                imageURL="../src/assets/Categories/Books.png"
                 classNameDiv="relative group overflow-hidden w-1/5 transition-all duration-300 hover:shadow-xl hover:-translate-y-2"
                 classNameHeading="text-center font-bold"
                 classNameImage="w-full transition-transform duration-500 group-hover:scale-110"
@@ -98,7 +98,7 @@ function AllCategory() {
 
             <div className='container mx-auto flex justify-between mt-20'>
               <Box 
-                imageURL="../../public/Categories/watch.png"
+                imageURL="../src/assets/Categories/watch.png"
                 classNameDiv="relative group overflow-hidden w-1/5 transition-all duration-300 hover:shadow-xl hover:-translate-y-2"
                 classNameHeading="text-center font-bold"
                 classNameImage="w-full transition-transform duration-500 group-hover:scale-110"
@@ -108,7 +108,7 @@ function AllCategory() {
               />
 
               <Box 
-                imageURL="../../public/Categories/Movies.png"
+                imageURL="../src/assets/Categories/Movies.png"
                 classNameDiv="relative group overflow-hidden w-1/5 transition-all duration-300 hover:shadow-xl hover:-translate-y-2"
                 classNameHeading="text-center font-bold"
                 classNameImage="w-full transition-transform duration-500 group-hover:scale-110"
@@ -118,7 +118,7 @@ function AllCategory() {
               />
 
               <Box 
-                imageURL="../../public/Categories/speakers.png"
+                imageURL="../src/assets/Categories/speakers.png"
                 classNameDiv="relative group overflow-hidden w-1/5 transition-all duration-300 hover:shadow-xl hover:-translate-y-2"
                 classNameHeading="text-center font-bold"
                 classNameImage="w-full transition-transform duration-500 group-hover:scale-110"
